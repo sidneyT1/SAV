@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\SAV.csproj|C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\app windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\SAV.csproj|solutionrelative:app windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\SAV.csproj|C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\app windows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\SAV.csproj|solutionrelative:app windows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\SAV.csproj|c:\\users\\stagiairedev\\projets\\sav\\app windows\\app windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\SAV.csproj|solutionrelative:app windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SAV||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\App windows.csproj|C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\app windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\App windows.csproj|solutionrelative:app windows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\App windows.csproj|C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\app windows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\App windows.csproj|solutionrelative:app windows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7129BA-A542-4027-90ED-D227E0A64C02}|App windows\\SAV.csproj|c:\\users\\stagiairedev\\projets\\sav\\app windows\\app windows\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.cs",
+              "RelativeDocumentMoniker": "App windows\\Form1.cs",
+              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.cs",
+              "RelativeToolTip": "App windows\\Form1.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAowL4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:53:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "App windows\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.Designer.cs",
+              "RelativeToolTip": "App windows\\Form1.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAYwKUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:10:54.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.cs",
+              "RelativeDocumentMoniker": "App windows\\Form1.cs",
+              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.cs [Design]",
+              "RelativeToolTip": "App windows\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:10:34.218Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.cs",
+              "RelativeDocumentMoniker": "App windows\\Form1.cs",
+              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\App windows\\App windows\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\App windows\\App windows\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:47:37.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "App windows\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\Form1.Designer.cs",
+              "RelativeToolTip": "App windows\\Form1.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAuwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:12:20.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SAV",
+              "DocumentMoniker": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\SAV.csproj",
+              "RelativeDocumentMoniker": "App windows\\SAV.csproj",
+              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\SAV.csproj",
+              "RelativeToolTip": "App windows\\SAV.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-10T08:46:00.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

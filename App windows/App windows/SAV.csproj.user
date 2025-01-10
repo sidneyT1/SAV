@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <PublishUrlHistory>C:\Users\stagiairedev\Projets\SAV\published\|C:\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\</PublishUrlHistory>
+    <InstallUrlHistory>\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\|https://github.com/sidneyT1/SAV/blob/master/published/.gitattributes/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>fr-FR</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
