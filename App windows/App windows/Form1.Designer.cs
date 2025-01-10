@@ -153,7 +153,7 @@
             // 
             // Form1
             // 
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(591, 369);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox3);

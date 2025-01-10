@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SAV.exe" version="1.0.0.3" publicKeyToken="efdc7439c26c7e23" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon_sav.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SAV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SAV.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options de manifeste UAC
+          Pour changer le niveau du contrôle de compte d'utilisateur Windows, remplacez le
+          nœud requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pour utiliser la virtualisation des fichiers et du Registre afin d'assurer
+         une compatibilité ascendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SAV.exe" size="116672">
+      <assemblyIdentity name="SAV" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dVEKEcObL3NL6JRQwqifrM6vMqhThP+yWG85DLYnK2Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="icon_sav.ico" size="47232">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>a8yKcl6V8Ue93p99wpZWIfxcYC5GIaNkJt8RauuK8n4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SAV.exe.config" size="184">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=VSA\stagiairedev" issuerKeyHash="c24411b32260725afa52d9704606a0e6e1dad67d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UzzKY9c9Tb+pnyEhtei8tSGk8to9HM3d3zLWKNjRuuA=</DigestValue></Reference></SignedInfo><SignatureValue>FJA6CFHWHpJBrL1RroeCum7D7gMDEN5CqKT8L4rURqI8YBnEkQADXRQ4bAEk9TUWi0nCYokq/UzV96lzkWkpP+DC5bzRK9hamxgC8aHAYbzvJXz4O+whSh5TPtPj/skA4Dj+i8IoMS2qqEiB9RXmlyHGzzvGtk6aBNq5SGZIa9c=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sezqbTnP+pruc6NefFxQbQ90bFqwb49SgfyNTQ/UDFarmiA+7VBW2l9NLLXNonaqgbmsj5KArhuboXDTNs+sKjF1W5KHAdDFBKhVvxV3jvcZ6Uofyeh5rH4eyOhKWlWn9Ght1sxHo9WzEMLGwa6y53vMcRUAT/45F6RhVhDo/JU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e0bad1d828d632dfddcd1c3ddaf2a421b5bce8b521219fa9bf4d3dd763ca3c53" Description="" Url=""><as:assemblyIdentity name="SAV.exe" version="1.0.0.3" publicKeyToken="efdc7439c26c7e23" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=VSA\stagiairedev</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>6rpXRmXLtsNJnQe7rg1e/iFeRfNky4c4VoYsDSZXvNE=</DigestValue></Reference></SignedInfo><SignatureValue>R68m3+q3swFZZZB5R76GxMJWncML3eltnsWNh5Jxzpw5duWk0dVObyg5jr2eUJvIA795Lhq8PYRSGX2wA3S7wFdGewaPfSoPMOPeMupdfaETsmhtOfvxvTBsOPBJsFVTQ/zUAGdsQQJej975B3sImQzjsy34jSrstE4c+NtwY4o=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sezqbTnP+pruc6NefFxQbQ90bFqwb49SgfyNTQ/UDFarmiA+7VBW2l9NLLXNonaqgbmsj5KArhuboXDTNs+sKjF1W5KHAdDFBKhVvxV3jvcZ6Uofyeh5rH4eyOhKWlWn9Ght1sxHo9WzEMLGwa6y53vMcRUAT/45F6RhVhDo/JU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQHH7woNYu9qZL+jYrtkE3rDANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAVgBTAEEAXABzAHQAYQBnAGkAYQBpAHIAZQBkAGUAdjAeFw0yNTAxMTAwOTU5MTZaFw0yNjAxMTAxNTU5MTZaMCsxKTAnBgNVBAMeIABWAFMAQQBcAHMAdABhAGcAaQBhAGkAcgBlAGQAZQB2MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCx7OptOc/6mu5zo158XFBtD3RsWrBvj1KB/I1ND9QMVquaID7tUFbaX00stc2idqqBuayPkoCuG5uhcNM2z6wqMXVbkocB0MUEqFW/FXeO9xnpSh/J6Hmsfh7I6EpaVaf0aG3WzEej1bMQwsbBrrLne8xxFQBP/jkXpGFWEOj8lQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAIDzmO6pA3I33oPmGqs8gEcHORPoQW0y58KvdcpZXiPZBqfuGW7LEBcoOvaNomARCD65v6Wosy8ecmzm5x9Y9VA4HjR+e04Q+H/H9yAf1qoZmxMnqMRr3IMrK0nGC6LbFayeG+coaFB9YSwIFwJi24/SOqxy5orGhtHYo9CwX0Et</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

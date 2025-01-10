@@ -1,0 +1,15 @@
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.csproj.AssemblyReference.cache
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\App_windows.Form1.resources
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.Properties.Resources.resources
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.csproj.GenerateResource.cache
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.csproj.CoreCompileInputs.cache
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Debug\icon_sav.ico
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Debug\SAV.exe.config
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Debug\SAV.exe.manifest
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Debug\SAV.application
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Debug\SAV.exe
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Debug\SAV.pdb
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.exe.manifest
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.application
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.exe
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Debug\SAV.pdb
