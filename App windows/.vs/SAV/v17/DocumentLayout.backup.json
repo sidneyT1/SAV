@@ -36,8 +36,8 @@
               "Title": "SAV",
               "DocumentMoniker": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\SAV.csproj",
               "RelativeDocumentMoniker": "App windows\\SAV.csproj",
-              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\SAV.csproj*",
-              "RelativeToolTip": "App windows\\SAV.csproj*",
+              "ToolTip": "C:\\Users\\stagiairedev\\Projets\\SAV\\App windows\\App windows\\SAV.csproj",
+              "RelativeToolTip": "App windows\\SAV.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-01-10T14:06:18.785Z",
               "IsPinned": true,
@@ -73,8 +73,7 @@
               "RelativeToolTip": "App windows\\Form1.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAowE4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T14:07:54.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T14:07:54.646Z"
             },
             {
               "$type": "Document",
