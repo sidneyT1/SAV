@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{1F7129BA-A542-4027-90ED-D227E0A64C02}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>App_windows</RootNamespace>
-    <AssemblyName>App windows</AssemblyName>
+    <RootNamespace>SAV</RootNamespace>
+    <AssemblyName>SAV</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -28,7 +28,7 @@
     <UpdateUrl>https://raw.githubusercontent.com/sidneyT1/SAV/refs/heads/master/published/</UpdateUrl>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>

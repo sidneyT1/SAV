@@ -10,17 +10,17 @@ C:\Users\stagiairedev\Projets\App windows\App windows\obj\Release\SAV.csproj.Cor
 C:\Users\stagiairedev\Projets\App windows\App windows\obj\Release\App windows.exe
 C:\Users\stagiairedev\Projets\App windows\App windows\obj\Release\App windows.pdb
 C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\icon_sav.ico
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\App windows.exe.config
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\App windows.exe
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\App windows.pdb
 C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.csproj.AssemblyReference.cache
 C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\App_windows.Form1.resources
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\App_windows.Properties.Resources.resources
 C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.csproj.GenerateResource.cache
 C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.csproj.CoreCompileInputs.cache
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\App windows.exe
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\App windows.pdb
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\App windows.exe.manifest
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\App windows.application
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\App windows.exe.manifest
-C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\App windows.application
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\SAV.exe.config
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\SAV.exe.manifest
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\SAV.application
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\SAV.exe
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\bin\Release\SAV.pdb
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.Properties.Resources.resources
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.exe.manifest
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.application
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.exe
+C:\Users\stagiairedev\Projets\SAV\App windows\App windows\obj\Release\SAV.pdb
