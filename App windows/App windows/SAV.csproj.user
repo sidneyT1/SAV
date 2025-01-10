@@ -3,9 +3,9 @@
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
     <PublishUrlHistory>C:\Users\stagiairedev\Projets\SAV\published\|C:\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\</PublishUrlHistory>
-    <InstallUrlHistory>\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\</InstallUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/sidneyT1/SAV/refs/heads/master/published/|\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory>\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\|https://github.com/sidneyT1/SAV/blob/master/published/.gitattributes/</UpdateUrlHistory>
+    <UpdateUrlHistory>https://raw.githubusercontent.com/sidneyT1/SAV/refs/heads/master/published/|\\yves\Users\stagiairedev\Desktop\updateSAV\|\\yves\Users\stagiairedev\Projets\SAV\App windows\|\\yves.VSA.local\Users\stagiairedev\Projets\SAV\App windows\|https://github.com/sidneyT1/SAV/blob/master/published/.gitattributes/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>fr-FR</FallbackCulture>
