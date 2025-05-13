@@ -109,7 +109,7 @@ namespace App_windows
 
 
 
-        private void AjouterAuDemarrage()
+        public void AjouterAuDemarrage()
         {
             string exePath = Application.ExecutablePath;
             string arguments = "--silent";
@@ -131,7 +131,7 @@ namespace App_windows
             utilSaisie.Text = utilisateurConnecté;
         }
 
-        private string ObtenirAdresseIP()
+        public string ObtenirAdresseIP()
         {
             string adresseIP = string.Empty;
 
